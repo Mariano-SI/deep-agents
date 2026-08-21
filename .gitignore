@@ -1,0 +1,4 @@
+.env
+/lca-deepagents-main
+__pycache__/
+*.pyc
