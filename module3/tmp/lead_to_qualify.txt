@@ -1,0 +1,8 @@
+Lead Details:
+- Company: Acme Corp
+- Industry: Logistics
+- Size: 200 employees
+- Contact: Sarah Chen, VP of Sales (decision maker)
+- Budget: $45,000 for CRM this year
+- Pain Point: Deals slipping through the cracks due to poor pipeline visibility
+- Desired Solution Timeline: Live by end of Q3
