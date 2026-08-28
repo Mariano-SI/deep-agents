@@ -3,7 +3,7 @@ from datetime import date
 
 import markdown as md
 import nh3
-from deepagents import FilesystemPermission, create_deep_agent
+from deepagents import CompiledSubAgent, FilesystemPermission, create_deep_agent
 from deepagents.backends import FilesystemBackend
 from langchain_core.tools import tool
 from tavily import TavilyClient
@@ -128,17 +128,27 @@ Your job:
    returned HTML to /output/newsletter.html."""
 
 
-genre_researcher = {
-    "name": "genre-researcher",
-    "description": (
+# Built with create_deep_agent instead of a plain SubAgent dict: it's a full
+# compiled graph (its own filesystem/todo middleware included), wrapped as a
+# CompiledSubAgent so the editor's `task` tool can dispatch to it. It shares
+# the same `backend` as the editor, so its writes land on the same real
+# /research/** files - `research_permissions` still scopes where it may write.
+genre_researcher_graph = create_deep_agent(
+    model=model,                          # the cheaper Haiku 4.5
+    tools=[internet_search],
+    system_prompt=RESEARCHER_PROMPT,
+    permissions=research_permissions,
+    backend=backend,
+)
+
+genre_researcher = CompiledSubAgent(
+    name="genre-researcher",
+    description=(
         "Research one music genre and write a short newsletter segment about "
         "what's new in it. Delegate one genre per call."
     ),
-    "system_prompt": RESEARCHER_PROMPT,         # its own brain - never inherited
-    "tools": [internet_search],            # override - replaces the inherited set
-    "model": model,                        # override - the cheaper Haiku 4.5
-    "permissions": research_permissions,   # override - scoped write access
-}
+    runnable=genre_researcher_graph,
+)
 
 
 agent = create_deep_agent(

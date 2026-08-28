@@ -1,22 +1,30 @@
-# Pesquisa realizada em 27 de agosto de 2026
+# Search Results for Rock Music - August 2026
 
-## Novidades Rock Agosto 2026
-- Record Store Day 2026 traz lançamentos importantes para fãs de rock e metal, incluindo Blur (Live at the Budokan), The Cars (Heartbeat City Live), Dinosaur Jr. (Live in Hollywood 1991), Judas Priest (Live in Los Angeles '90), Pixies (Live in Newport), Stone Temple Pilots (Live at Rolling Rock 2001), entre outros.
-- Destaque para o Welcome to Rockville Festival 2026 com Foo Fighters, Guns N' Roses, My Chemical Romance e Bring Me the Horizon como headliners.
-- A banda Self Deception se prepara para sua primeira turnê headline na Austrália em 2026.
-- Aerosmith relança edição remasterizada e expandida do álbum debut de 1973.
-- Guns N’ Roses farão show único ao ar livre em Adelaide, Austrália, em novembro de 2026, e lançaram recentemente novas músicas.
-- Shinedown abandonou o Rock the Country Fest após polêmica com o baterista.
-- Indução ao Rock and Roll Hall of Fame 2026 inclui Oasis, Wu-Tang Clan, Phil Collins, Iron Maiden, New Order, entre outros.
+## New Releases
+- Airbourne announces a self-titled album due out August 28, 2026, via Spinefarm Records. The album's lyrics were inspired by touring early in the creation process.
+- Other recent releases: Prime Creation's "Souls of the Fallen" (June 26, 2026), The Xcerts' "i think i want to go home now" (July 10, 2026), Acid Reign's "Daze of the Week" (May 15, 2026).
+- Record Store Day 2026 includes releases like Blur's Live at the Budokan, The Cars' Heartbeat City Live, Dinosaur Jr.'s Live in Hollywood 1991, and more.
+- Charli XCX released the single and video "Rock Music," sparking debate among fans about its rock authenticity.
 
-## Lançamentos importantes em Rock 2026
-- Vários álbuns e gravações ao vivo foram anunciados para lançamentos relacionados ao Record Store Day.
-- Guns N' Roses divulgou novos singles e prepara turnê/aniversário de 20 anos.
-- Aerosmith lançou uma edição 'Legendary' de seu álbum de estreia para o mercado.
+## Trending Artists
+- Spotify's Artists to Watch 2026 list includes rock/alternative acts like Ecca Vandal and Speed from Australia.
+- The All-American Rejects discussed a new album and their House Party tour.
+- Rolling Stone AU/NZ's Future of Music 2026 List highlights emerging Australian and New Zealand artists making waves, including Folk Bitch Trio and Balu Brigada.
 
-## Tendências Rock 2026
-- A moda delicada e funcional, com influência esportiva em tecidos femininos, como cetim e renda, tem sido notada em coleções do outono/inverno 2026.
-- A indução de bandas clássicas ao Rock and Roll Hall of Fame remonta a um renascimento do interesse no rock tradicional e suas raízes.
-- Polêmicas em festivais como Rock the Country também mostram divisões recentes no cenário do rock.
+## Festivals and Events
+- The 15th annual Welcome to Rockville festival (Daytona Beach, FL) features Guns N’ Roses, Foo Fighters, My Chemical Romance, Bring Me the Horizon.
+- Electric Picnic 2026 in Ireland headlines with Gorillaz, Fontaines D.C., and CMAT (Aug 28-30).
+- Lollapalooza 2026 in Chicago included rock acts like Smashing Pumpkins and Charli XCX on July 31.
 
-Fonte: Loudwire, Billboard, Rolling Stone, Noise11, Rock Cellar Magazine, CONSEQUENCE, Vogue.
+## Other News
+- Tribute to Dave Mason airing August 30, 2026, highlighting his contributions to rock.
+
+Source URLs:
+- https://grande-rock.com/news/airbourne-to-release-new-self-titled-album-on-august-28th-2026/
+- https://loudwire.com/2026-record-store-day-rock-metal-releases/
+- https://variety.com/2026/music/news/charli-xcx-rock-music-video-single-era-1236741376/
+- https://www.billboard.com/music/music-news/spotify-artists-songwriters-to-watch-in-2026-1236154738/
+- https://www.billboard.com/music/concerts/2026-welcome-to-rockville-festival-lineup-foo-fighters-gnr-1236115750/
+- https://www.bbc.com/news/articles/cd6xjvqylxno
+- https://www.teenvogue.com/story/lollapalooza-2026-outfits
+- https://www.kgou.org/show/kgou-sunday-radio-matinee/2026-08-23/dave-mason-feelin-alright-an-appreciation
